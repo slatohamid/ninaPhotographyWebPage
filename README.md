@@ -1,4 +1,4 @@
-https://slatohamid.github.io/ninaWebPage/
+[https://slatohamid.github.io/ninaWebPage/](https://slatohamid.github.io/ninaPhotographyWebPage/)
 
 Web page for Nina Lubarda Photography
 
